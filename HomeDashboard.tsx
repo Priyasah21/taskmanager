@@ -1,4 +1,4 @@
-// AI Dialog State and Handlers
+// AI Dialog State and Handler
 const [isAiDialogOpen, setIsAiDialogOpen] = useState(false);
 
 const handleOpenAiDialog = () => {
